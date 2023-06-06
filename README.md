@@ -1,1 +1,1 @@
-# Creating-Varational-AutoEncoders-from-scratch
+# Creating-Variational-AutoEncoders-from-scratch
