@@ -16,4 +16,4 @@ The loss function is computed as follows : L = contrastive loss + KL Divergence.
 
 ![loss1](https://github.com/madarshb19/Creating-Variational-AutoEncoders-from-scratch/assets/70708225/7d748f8f-6986-4d33-aecf-50785c764bdc)
 
-We have implement the Variational AutoEncoders to learn MNIST datasets.
+We have implemented the Variational AutoEncoders to learn MNIST datasets.
